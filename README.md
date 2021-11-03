@@ -33,7 +33,7 @@ Do You Use Replit, glitch or others For Your Discord Bot? Do You Use Features Li
  
 # HAVE errors? 
 
-Dm me on discord Charan#8508 or join my friend's server and in help channel ping me I will solve your doubts.
+Dm me on discord Kaixin#5925 or join my friend's server and in help channel ping me I will solve your doubts.
 
 If issues in code make a issue in [make a issue](https://github.com/Mitsuya-Bot/hosting-bot/issues)
 
